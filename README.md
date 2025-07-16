@@ -1,4 +1,4 @@
-# TO-DO-IT
+# จารย์โอม
 
 ## ทักษะที่ Full-Stack Developer ต้องมี
 
